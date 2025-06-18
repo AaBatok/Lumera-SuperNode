@@ -146,7 +146,9 @@ lumerad tx supernode register-supernode \
   --gas 80000  --gas-prices 0.025ulume --chain-id lumera-testnet-1
 ```
 Ganti **ADRESS_VALIDATOR dan ADRESS_LUMERA** sesuai Adress Kalian
+
 Ganti x dengan nomer yang belum kepake di IP [Dashboard SuperNode](https://portal.testnet.lumera.io/lumera-testnet-1/supernodes)
+
 Ganti nama wallet sesuai wallet kalian yang ada di **lumerad keys list**
 
 **Selamat SuperNode kalian sudah Aktif**
