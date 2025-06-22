@@ -46,7 +46,7 @@ supernode:
   port: 4444                    # gRPC/API port
 
 keyring:
-  backend: file                 # Options: file|os|test
+  backend: test                 # Options: file|os|test
   dir: keys                     # Directory for key storage
 
 p2p:
