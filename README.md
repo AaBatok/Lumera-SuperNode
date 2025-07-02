@@ -152,3 +152,5 @@ Ganti x dengan nomer yang belum kepake di IP [Dashboard SuperNode](https://porta
 Ganti nama wallet sesuai wallet kalian yang ada di **lumerad keys list**
 
 **Selamat SuperNode kalian sudah Aktif**
+
+DONE
